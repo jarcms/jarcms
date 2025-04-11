@@ -3,21 +3,21 @@
 <p>全栈研发，十几年互联网大厂JAVA经验，技术涉猎广泛（仅限使用），比如Android、PHP、微信小程序、Vue等。</p>
 
 <p>非技术控，喜欢做一些能够呈现出来的应用：<b>技术只是工具，应用才是王道。</b></p>
-
+<br>
 <h2> 联系我 💬</h2>
 <p>欢迎大家通过以下方式联系我，技术咨询、唠嗑均可。😄</p>
 <ul>
     <li>微信公众号：<b>舍出（shechubbb）</b>，菜单有微信号</li>
     <li>B站：<b>舍出</b></li>
-</ul>
-
+</ul>  
+<br>
 <h2> 项目 📫</h2>
 
 <table>
     <thead>
-        <td width=200>项目</td>
-        <td width=260>名称</td>
-        <td>介绍</td>
+        <td width=200><b>项目</b></td>
+        <td width=260><b>名称</b></td>
+        <td><b>说明</b></td>
     </thead>
     <tbody>
         <tr>
