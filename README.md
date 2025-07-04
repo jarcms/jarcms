@@ -27,7 +27,7 @@
         </tr>
         <tr>
             <td><p><a target="_blank" href="https://github.com/jarcms/wechat-smdc">wechat-smdc</a></p></td>
-            <td><p><b>【开发中】微信扫码点餐小程序</b></p></td>
+            <td><p><b>【已完结】微信扫码点餐小程序</b></p></td>
             <td><p>全程演示从0到1开发过程，视频教程公众号、B站同步更新。</p></td>
         </tr>
     </tbody>
